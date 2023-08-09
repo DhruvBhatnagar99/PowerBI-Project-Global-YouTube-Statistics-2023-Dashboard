@@ -17,4 +17,4 @@ This Power BI project uses the "Global YouTube Statistics 2023" dataset from Kag
 2. Top Youtubers by Views Count
 3. Top Channel Categories
 
-Through interactive Power BI dashboard, I provide insights for content creators, marketers, and YouTube enthusiasts. This project showcases my analysis skills while offering actionable insights into the global YouTube landscape.
+Through an interactive Power BI dashboard, I aim to provide insights for content creators, marketers, and YouTube enthusiasts. This project offers actionable insights into the global YouTube landscape.
